@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#banner{
+ text-align: center;
+color: #ffff;
+font-size: 34px;
+background-color: #141414;
+}
+#banner span{
+    color: #efd71e;
+}
+#banner h2{
+    font-weight: 600;
+}
+#banner span{
+    font-weight: 600;
+}
+.card-body{
+    background-color: #171925 ;
+}
+.card-img-top image{
+border-radius: 10;
+}
+.card-body h5{
+    color: #ffff;
+}
+.container{
+    background-color: #141414;
+}
+.container span{
+    color: #ffff;
+}
+.container strong{
+    color: #efd71e;
+}
+.row{
+    background-color: #141414;
+}
+#js{
+    width: 55px;
+}
